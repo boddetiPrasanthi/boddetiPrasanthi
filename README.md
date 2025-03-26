@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boddetiPrasanthi
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Java full stack 
-- 💞️ I’m looking to collaborate on java developer role
+- 💞️ I’m looking to collaborate on Software developer role
 - 📫 To reach me, mail to prasanthiboddeti135@gmail.com
 
 
